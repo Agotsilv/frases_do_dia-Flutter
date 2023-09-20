@@ -1,6 +1,6 @@
-# frases_dia
+# frases do Dia
 
-A new Flutter project.
+Aplicativo desenvolvido para estudo em flutter
 
 ## Getting Started
 
